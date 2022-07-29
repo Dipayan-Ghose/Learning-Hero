@@ -1,0 +1,21 @@
+.cover{
+    background: black;
+}
+
+.cover .image{
+    opacity: 0.5;
+}
+.texty{
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    margin-left: 25rem;
+    margin-top: 15rem;
+}
+.discover{
+    width: 500px;
+    margin-left: 25rem;
+}
+.ready{
+    background-color:  #289BDE;;
+}
