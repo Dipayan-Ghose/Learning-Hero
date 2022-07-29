@@ -19,3 +19,15 @@
 .ready{
     background-color:  #289BDE;;
 }
+.work{
+  max-width: 600px;
+  margin-left: -0.7rem;
+}
+.backexplore{
+    background: #F4FAFD;
+}
+.textcenter{
+    margin-top: 10rem;
+}
+
+    /* border: 1px solid red; */
