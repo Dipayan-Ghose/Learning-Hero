@@ -6,11 +6,8 @@
     opacity: 0.5;
 }
 .texty{
-    width: 500px;
-    height: 300px;
+     height: 350px; 
     text-align: center;
-    margin-left: 25rem;
-    margin-top: 15rem;
 }
 .discover{
     width: 500px;
@@ -25,9 +22,6 @@
 }
 .backexplore{
     background: #F4FAFD;
-}
-.textcenter{
-    margin-top: 10rem;
 }
 
 .fa-brands{
